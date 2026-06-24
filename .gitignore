@@ -48,3 +48,7 @@ JLink.log
 
 # 调试配置(个人设置，不需要提交)
 DebugConfig/
+
+# 垃圾/临时文件
+keilkill.bat
+必读说明.txt
