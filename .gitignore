@@ -1,0 +1,50 @@
+# Keil MDK 编译产物
+Output/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.htm
+*.lnp
+*.lst
+*.iex
+*.sct
+*.dep
+*.fedb
+*.jpg
+*.JPG
+
+# Keil 工程文件 (保留 .uvprojx 和 .uvoptx)
+*.uvgui.*
+*.uvguix.*
+*.scvd
+*.uvproj
+*.uvopt
+*.Administrator
+*.uvprojx_bak
+
+# 编辑器 / IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.tmproject
+
+# 操作系统
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# JLink
+JLinkLog.txt
+JLinkSettings.ini
+JLink.log
+
+# 调试配置(个人设置，不需要提交)
+DebugConfig/
